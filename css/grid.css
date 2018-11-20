@@ -143,15 +143,12 @@
 
 .unit-xs-1-2 {
   width: 50%;
-}
-
-.unit-xs-1-2 {
   display: inline-block;
   visibility: visible;
 }
 
 .unit-xs-1-2[class*="-content-"],
-.xs-1-2[class*="-content-"]{
+.xs-1-2[class*="-content-"] {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
@@ -181,7 +178,7 @@
     width: 50%;
   }
 
-  .unit-s-1-2{
+  .unit-s-1-2 {
     display: inline-block;
     visibility: visible;
   }
@@ -213,8 +210,7 @@
     width: 100%;
   }
 
-  .unit-m-1-2,
-  .m-1-2 {
+  .unit-m-1-2 {
     width: 50%;
   }
 
@@ -225,7 +221,7 @@
   }
 
   .unit-m-1-2[class*="-content-"],
-  .m-1-2[class*="-content-"]{
+  .m-1-2[class*="-content-"] {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
